@@ -84,7 +84,7 @@
 
 <br clear="both">
 
-<img align="right" height="243" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWo2Nm41cWg1MDZ5YXY1NTNnems1cnVkeWlqanU0eml2OTF4MXc0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7qDQ4kcSD1PLM3BK/200.webp"  />
+<img align="right" height="235" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWo2Nm41cWg1MDZ5YXY1NTNnems1cnVkeWlqanU0eml2OTF4MXc0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7qDQ4kcSD1PLM3BK/200.webp"  />
 
 ###
 
