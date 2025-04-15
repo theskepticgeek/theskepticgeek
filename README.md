@@ -77,7 +77,7 @@
 ###
 
 <p align="left">
-### 🚀 About Me  <br>🌱 I’m currently learning: `ZKPs`, `AI agents`, `GSAP`  <br>🎯 2025 Goals: Build a startup. Ship something absurdly cool.<br><br><details><br>  <summary>🧠 Fun Fact</summary><br>  I once debugged a bug by taking a nap. It worked.<br></details></p>
+### 🚀 About Me  <br>🌱 I’m currently learning: `ZKPs`, `AI agents`, `GSAP`  <br>🎯 2025 Goals: Build a startup. Ship something absurdly cool.<br><br><details><br></p>
 
 ###
 
