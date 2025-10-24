@@ -77,7 +77,7 @@
 ###
 
 <p align="center">
-About Me  <br>🌱 Oscillating between deadlines and my will to live <br>🎯 2025 Goals: Have a cup of coffee.. Till I can't.
+About Me  <br>Just a Niche Performative Guy Oscillating between deadlines and my will to live <br>2025 Goals: Have a cup of coffee.. Till I can't. And maybe survive a zombie apocalypse?
 </p>
 
 ###
