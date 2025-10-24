@@ -76,8 +76,8 @@
 
 ###
 
-<p align="left">
-### 🚀 About Me  <br>🌱 Oscillating between deadlines and my will to live <br>🎯 2025 Goals: Have a cup of coffee.. Till I can't.
+<p align="center">
+About Me  <br>🌱 Oscillating between deadlines and my will to live <br>🎯 2025 Goals: Have a cup of coffee.. Till I can't.
 </p>
 
 ###
