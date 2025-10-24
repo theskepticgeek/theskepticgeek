@@ -1,8 +1,8 @@
-<h1 align="center">##Hi there, I'm Krrish 👾<br>(I write code that sometimes works)</h1>
+<h1 align="center">Hi there, I'm Krrish 👾<br>(I write code that sometimes works)</h1>
 
 ###
 
-<h3 align="left">> 🧠 *I don't forget the semicolon; the semicolon forgets me.*</h3>
+<h3 align="left">> 🧠 I don't forget the semicolon; the semicolon forgets me.</h3>
 
 ###
 
@@ -77,7 +77,7 @@
 ###
 
 <p align="left">
-### 🚀 About Me  <br>🌱 I’m currently learning: `ZKPs`, `AI agents`, `GSAP`  <br>🎯 2025 Goals: Build a startup. Ship something absurdly cool.
+### 🚀 About Me  <br>🌱 Oscillating between deadlines and my will to live <br>🎯 2025 Goals: Have a cup of coffee.. Till I can't.
 </p>
 
 ###
