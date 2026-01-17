@@ -87,20 +87,6 @@
 | **[SecureDeFiLendingOptimized](https://github.com/theskepticgeek/SecureDeFiLendingOptimized)** | Game‑theoretic smart contract for decentralized lending with dynamic reputation, collateral‑backed loans, and trust‑based incentives. Research‑backed implementation deployed on Ethereum Sepolia. | Solidity, Hardhat, Ethereum, OpenZeppelin, Remix |
 | **[AI‑Driven Game Theory Simulations]** | Simulations of real‑world applications to analyze Nash equilibrium convergence, measure outcome probabilities, and evaluate strategic interactions under varying conditions. | Python, NumPy, Matplotlib, Jupyter, Scikit‑learn |---
 
-### **Active Research & Development**
-
-1. **AI-VR Integration in Mass Recruitment**
-   Building startup integration AI-VR-Blockchain for transparent bias free recruitment
-   
-3. **Nash Equilibrium Analysis Framework**  
-   Building probabilistic models to predict equilibrium convergence in DeFi lending markets
-
-4. **Carbon Credit Tokenization Protocol**  
-   Extending EcoQuant with oracle integrations and cross-chain compatibility
-
-5. **Reputation-Based DeFi Security**  
-   Enhancing smart contracts with machine learning for risk assessment
-
 ###
 
 ---
