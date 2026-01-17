@@ -36,7 +36,7 @@
 
 ### **Blockchain & Web3**
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" height="40" alt="Ethereum" title="Ethereum" />
+  <img src="https://simpleicons.org/icons/ethereum.svg" height="40" alt="Ethereum" title="Ethereum" style="background-color: #3C3C3D; padding: 4px; border-radius: 4px;" />
   <img width="12" />
   <img src="https://cryptologos.cc/logos/celo-celo-logo.svg" height="40" alt="Celo" title="Celo" />
   <img width="12" />
