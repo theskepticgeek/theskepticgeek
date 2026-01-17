@@ -80,60 +80,11 @@
 
 ## Featured Projects
 
-### **EcoQuant – Blockchain-Powered Carbon Finance Ecosystem**
-**Status:** ✅ Deployed to Celo Sepolia | **Contract:** `0xe00b540dfb16dbe12b80ef89f3172ffe3305ac7b`  
-**Contributors:** Krrish Dubey & Priyanka Mukherjee  
-
-**Overview**  
-EcoQuant (EQT) is a decentralized financial ecosystem on Celo Sepolia Testnet, enabling transparent carbon credit verification, tokenization, and investment through EcoQuant Tokens (EQT) — an ERC-20 token representing verified carbon offsets.
-
-**Tech Stack:** Solidity, Hardhat, React, Next.js, IPFS, Machine Learning  
-**Impact:** Tokenizing verified carbon projects, creating climate-positive financial loops  
-**Features:**  
-- Contributor dashboard with geo-mapping  
-- Admin verification & ML-based token minting  
-- Investor dashboard with liquidity pools (Ubeswap V3)  
-- Full transparency layer with IPFS verification  
-
-[Project Deployment Link](https://github.com/ecoquant)
-
----
-### **SecureDeFiLendingOptimized – Game-Theoretic Smart Contract**
-**Research Paper:** "Game-Theory Approach using Blockchain to Enhance Trust in Decentralized Finance Systems"  
-**Authors:** Krrish Dubey and Priyanka Mukherjee  
-
-**Overview**  
-A reputation-based lending protocol implementing game-theoretic principles to build trust without intermediaries through dynamic credit scoring, collateral requirements, and incentive alignment.
-
-**Tech Stack:** Solidity, Ethereum, OpenZeppelin, Hardhat  
-**Features:**  
-- Dynamic Credit Score (0–10) with reputation incentives  
-- 20% Collateral Enforcement & grace period system  
-- Reentrancy protection & gas optimization  
-- Configurable interest rate curves based on reputation  
-- Cooldown mechanisms to prevent spam borrowing  
-
-[GitHub Repository](https://github.com/theskepticgeek/SecureDeFiLendingOptimized)
-
-### **Game Theory AI Simulations**
-**Focus:** Stochastic modeling of Nash Equilibrium convergence in DeFi protocols  
-
-** Research Area**  
-Developing AI simulations to analyze:
-- Probability distributions of Nash Equilibrium attainment
-- Convergence rates in multi-agent DeFi systems
-- Risk assessment through Monte Carlo simulations
-- Agent-based modeling of rational behavior in decentralized markets
-
-**🔬 Methodology:**  
-- Agent-based simulations with bounded rationality
-- Evolutionary game theory implementations
-- Stochastic process modeling for equilibrium analysis
-- Reinforcement learning for optimal strategy discovery
-
-**🛠 Tools:** Python (NumPy, SciPy, PyTorch), Jupyter, Custom simulation frameworks
-
----
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[EcoQuant – Carbon Finance Ecosystem](https://github.com/theskepticgeek)** | A blockchain-powered platform for transparent carbon credit verification, tokenization, and investment using AI-driven validation. ERC‑20 token (EQT) deployed on Celo Sepolia. | Solidity, Celo, IPFS, React, Next.js, ML |
+| **[SecureDeFiLendingOptimized](https://github.com/theskepticgeek)** | Game‑theoretic smart contract for decentralized lending with dynamic reputation, collateral‑backed loans, and trust‑based incentives. Research‑backed implementation deployed on Ethereum Sepolia. | Solidity, Hardhat, Ethereum, OpenZeppelin, Remix |
+| **[AI‑Driven Game Theory Simulations](https://github.com/theskepticgeek)** | Simulations of real‑world applications to analyze Nash equilibrium convergence, measure outcome probabilities, and evaluate strategic interactions under varying conditions. | Python, NumPy, Matplotlib, Jupyter, Scikit‑learn |---
 
 ### **Active Research & Development**
 1. **Nash Equilibrium Analysis Framework**  
