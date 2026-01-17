@@ -88,17 +88,19 @@
 | **[AI‑Driven Game Theory Simulations]** | Simulations of real‑world applications to analyze Nash equilibrium convergence, measure outcome probabilities, and evaluate strategic interactions under varying conditions. | Python, NumPy, Matplotlib, Jupyter, Scikit‑learn |---
 
 ### **Active Research & Development**
-1. **Nash Equilibrium Analysis Framework**  
+
+1. **AI-VR Integration in Mass Recruitment**
+   Building startup integration AI-VR-Blockchain for transparent bias free recruitment
+   
+2. **Nash Equilibrium Analysis Framework**  
    Building probabilistic models to predict equilibrium convergence in DeFi lending markets
 
-2. **Carbon Credit Tokenization Protocol**  
+3. **Carbon Credit Tokenization Protocol**  
    Extending EcoQuant with oracle integrations and cross-chain compatibility
 
-3. **Reputation-Based DeFi Security**  
+4. **Reputation-Based DeFi Security**  
    Enhancing smart contracts with machine learning for risk assessment
 
-4. **AI-VR Integration in Mass Recruitment**
-   Building startup integration AI-VR-Blockchain for transparent bias free recruitment
 ###
 
 ---
@@ -158,7 +160,6 @@
 <div align="left">
   
 **"Just a Niche Performative Guy Oscillating between deadlines and my will to live."**  
-**Blockchain Researcher • DeFi Architect • Game Theory Enthusiast • Linux Purist**
 
 **Current Setup:** Fedora KDE Plasma 42 with VS Code + Hardhat  
 **2026 Goals:** Build my startup and crack into FinTech  
