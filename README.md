@@ -142,8 +142,6 @@
 
 ###
 
-## Development Vibes
-
 <div align="center">
   <a href="https://open.spotify.com/user/313ttwcci54p7woswgj2cfgiklsq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=313ttwcci54p7woswgj2cfgiklsq&count=5&unique=true&width=600" alt="Spotify Recently Played" />
@@ -152,42 +150,17 @@
 
 ###
 
-## Academic & Research Interests
 
-**Game Theory Applications in Blockchain:**  
-- Nash Equilibrium convergence probabilities in DeFi systems
-- Stochastic modeling of rational agent behavior
-- Evolutionary stable strategies in decentralized markets
-- Mechanism design for incentive-compatible protocols
-
-**Blockchain Research Areas:**  
-- DeFi protocol security and game-theoretic analysis
-- Carbon credit tokenization and climate finance
-- Reputation systems in decentralized applications
-- AI/ML integration with smart contracts
-
-**Institutions:** JIS College of Engineering  
-**Research Partners:** Priyanka Mukherjee (@CodeWithPriyankaMukherjee)
-
-###
 
 ##  About Me
 
-<div align="center">
+<div align="left">
   
 **"Just a Niche Performative Guy Oscillating between deadlines and my will to live."**  
 **Blockchain Researcher • DeFi Architect • Game Theory Enthusiast • Linux Purist**
 
-**🔧 Current Setup:** Fedora KDE Plasma 42 with VS Code + Hardhat  
-**🎯 2025 Goals:** Publish research on Nash Equilibrium convergence in DeFi  
-**⚡ Fun Fact:** I can debug smart contracts and game theory models simultaneously
-
-When I'm not wrestling with Nash Equilibria or smart contract vulnerabilities, I'm probably:
-- Simulating agent behaviors in Python 🐍
-- Writing research papers on blockchain economics 📝
-- Contributing to climate tech through blockchain 🌱
-- Customizing my KDE desktop while compiling kernels 🐧
-- Surviving on coffee while proving theorems about DeFi stability ☕
+**Current Setup:** Fedora KDE Plasma 42 with VS Code + Hardhat  
+**202 Goals:** Build my startup and crack into FinTech  
 
 **Current Research Focus:** Stochastic modeling of equilibrium attainment frequencies in reputation-based DeFi lending protocols using agent-based simulations and probability theory.
 
@@ -195,8 +168,3 @@ When I'm not wrestling with Nash Equilibria or smart contract vulnerabilities, I
 
 ###
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="200" alt="Coding GIF" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=theskepticgeek&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
