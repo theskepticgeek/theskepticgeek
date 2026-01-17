@@ -83,9 +83,9 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[EcoQuant – Carbon Finance Ecosystem](https://github.com/theskepticgeek)** | A blockchain-powered platform for transparent carbon credit verification, tokenization, and investment using AI-driven validation. ERC‑20 token (EQT) deployed on Celo Sepolia. | Solidity, Celo, IPFS, React, Next.js, ML |
-| **[SecureDeFiLendingOptimized](https://github.com/theskepticgeek)** | Game‑theoretic smart contract for decentralized lending with dynamic reputation, collateral‑backed loans, and trust‑based incentives. Research‑backed implementation deployed on Ethereum Sepolia. | Solidity, Hardhat, Ethereum, OpenZeppelin, Remix |
-| **[AI‑Driven Game Theory Simulations](https://github.com/theskepticgeek)** | Simulations of real‑world applications to analyze Nash equilibrium convergence, measure outcome probabilities, and evaluate strategic interactions under varying conditions. | Python, NumPy, Matplotlib, Jupyter, Scikit‑learn |---
+| **[EcoQuant – Carbon Finance Ecosystem](https://eco-quant.vercel.app/)** | A blockchain-powered platform for transparent carbon credit verification, tokenization, and investment using AI-driven validation. ERC‑20 token (EQT) deployed on Celo Sepolia. | Solidity, Celo, IPFS, React, Next.js, ML |
+| **[SecureDeFiLendingOptimized](https://github.com/theskepticgeek/SecureDeFiLendingOptimized)** | Game‑theoretic smart contract for decentralized lending with dynamic reputation, collateral‑backed loans, and trust‑based incentives. Research‑backed implementation deployed on Ethereum Sepolia. | Solidity, Hardhat, Ethereum, OpenZeppelin, Remix |
+| **[AI‑Driven Game Theory Simulations]** | Simulations of real‑world applications to analyze Nash equilibrium convergence, measure outcome probabilities, and evaluate strategic interactions under varying conditions. | Python, NumPy, Matplotlib, Jupyter, Scikit‑learn |---
 
 ### **Active Research & Development**
 1. **Nash Equilibrium Analysis Framework**  
