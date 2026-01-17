@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Krrish 👾<br>(I write code that sometimes works)</h1>
+<h1 align="center">Hi there, I'm Krrish<br>Web3 Developer & Blockchain Researcher | Co-Founder @HoloRecruit</h1>
 
 ###
 
@@ -160,7 +160,7 @@
 **Blockchain Researcher • DeFi Architect • Game Theory Enthusiast • Linux Purist**
 
 **Current Setup:** Fedora KDE Plasma 42 with VS Code + Hardhat  
-**202 Goals:** Build my startup and crack into FinTech  
+**2026 Goals:** Build my startup and crack into FinTech  
 
 **Current Research Focus:** Stochastic modeling of equilibrium attainment frequencies in reputation-based DeFi lending protocols using agent-based simulations and probability theory.
 
