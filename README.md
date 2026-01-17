@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Krrish<br>Web3 Developer & Blockchain Researcher | Co-Founder @HoloRecruit</h1>
+<h1 align="center">Hi there, I'm Krrish<br>Web3 Developer | Co-Founder @HoloRecruit</h1>
 
 ###
 
