@@ -105,7 +105,7 @@
   <a href="https://linkedin.com/in/krrishdubey/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/noskepticgeek" target="_blank">
+  <a href="https://x.com/0xKrrish01" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" alt="Twitter" />
   </a>
   <a href="https://medium.com/@krrishdubey12" target="_blank">
